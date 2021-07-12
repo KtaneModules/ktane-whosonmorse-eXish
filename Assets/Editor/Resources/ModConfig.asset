@@ -14,7 +14,7 @@ MonoBehaviour:
   id: whosOnMorseModule
   title: Who's on Morse
   author: eXish, Asew54321, Kevlar
-  description: 'Read the morse being flashed by the light and LEDs and then press
+  description: 'Read the Morse being flashed by the light and LEDs and then press
     the correct LED in this Morse Code and Who''s on First mashup.
 
 
