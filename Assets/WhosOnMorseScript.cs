@@ -72,6 +72,7 @@ public class WhosOnMorseScript : MonoBehaviour {
     }
 
     void Start () {
+        morseLight.GetComponent<Light>().range *= transform.lossyScale.x;
         var rnd = ruleSeedable.GetRNG();
         Debug.LogFormat("[Who's on Morse #{0}] Using rule seed: {1}", moduleId, rnd.Seed);
         if (rnd.Seed != 1)
