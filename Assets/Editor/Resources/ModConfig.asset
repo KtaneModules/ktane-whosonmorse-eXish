@@ -23,7 +23,7 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Who%27s%20on%20Morse.pdf
 
 
-    Who''s on Morse (whosOnMorseModule) v1.0.1
+    Who''s on Morse (whosOnMorseModule) v1.0.2
 
     Module Idea by Kevlar
 
@@ -32,6 +32,6 @@ MonoBehaviour:
     Implemented by eXish
 
     Twitch Plays and Rule Seed supported'
-  version: 1.0.1
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 488ba7777d48d7a49bf771a15509cd5c, type: 3}
